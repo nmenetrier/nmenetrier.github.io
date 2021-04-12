@@ -130,8 +130,8 @@ disable404 = true
         icon = "fa-user"
         title = "Career Profile"
         summary = """\
-            Curieux, j'aime découvrir les arcanes du kernel Linux ainsi que de faire du développement quand.\n\
-            Je souhaiterais m'orienter vers un poste avec plus de développement logiciel de DevOps ou de SRE.
+            Curieux, j'aime particulièrement découvrir les arcanes du kernel Linux ainsi qu'automatiser les tâches récurrentes.\n\
+            Je souhaiterais m'orienter vers un poste avec plus de développement logiciel, type DevOps ou SRE.
             """
 
     # Experiences section
