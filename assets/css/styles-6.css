@@ -325,6 +325,7 @@ p {
     display: inline-block;
     border-radius: 1rem;
     padding: 0.1rem 0.6rem;
+    margin: 0 0.3rem 0 0;
 }
 
 
