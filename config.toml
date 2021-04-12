@@ -1,6 +1,6 @@
 # Page settings
 
-baseurl = "https://nmenetrier.github.io"
+baseurl = "https://nmenetrier.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "fr"
 title = "CV Nicolas MENETRIER"
