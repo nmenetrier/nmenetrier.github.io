@@ -1,0 +1,3 @@
+[submodule "themes/hugo-orbit-theme"]
+	path = themes/hugo-orbit-theme
+	url = git@github.com:nmenetrier/hugo-orbit-theme.git
