@@ -320,8 +320,8 @@ p {
 
 .badge {
     background-color: #4B6A78;
-    font-size: 0.1rem;
-    font-weight: 100;
+    font-size: 1.3rem;
+    font-weight: 400;
     display: inline-block;
     border-radius: 1rem;
     padding: 0.1rem 0.6rem;
