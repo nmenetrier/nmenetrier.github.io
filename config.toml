@@ -42,8 +42,8 @@ disable404 = true
         [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        url = "mailto: nmenetrier@protonmail.com"
-        title = "nmenetrier@protonmail.com"
+        #url = "mailto: nmenetrier@protonmail.com"
+        title = "nmenetrier[at]protonmail.com"
 
         #[[params.contact.list]]
         #class = "phone"
@@ -131,7 +131,8 @@ disable404 = true
         title = "Career Profile"
         summary = """\
             Curieux, j'aime particulièrement découvrir les arcanes du kernel Linux ainsi qu'automatiser les tâches récurrentes.\n\
-            Je souhaiterais m'orienter vers un poste avec plus de développement logiciel, type DevOps ou SRE.
+            Je souhaiterais m'orienter vers un poste avec plus de développement logiciel, type DevOps ou SRE.\n\
+            Plus il y a du temps de dev, plus je suis heureux. :)
             """
 
     # Experiences section
