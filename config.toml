@@ -45,11 +45,11 @@ disable404 = true
         url = "mailto: nmenetrier@protonmail.com"
         title = "nmenetrier@protonmail.com"
 
-        [[params.contact.list]]
-        class = "phone"
-        icon = "fa-phone"
-        url = "tel:+33 7 61 31 82 98"
-        title = "+33 7 61 31 82 98"
+        #[[params.contact.list]]
+        #class = "phone"
+        #icon = "fa-phone"
+        #url = "tel:+33 7 61 31 82 98"
+        #title = "+33 7 61 31 82 98"
 
         [[params.contact.list]]
         class = "website"
