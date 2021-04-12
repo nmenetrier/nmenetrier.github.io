@@ -326,6 +326,10 @@ p {
     padding: 0.1rem 0.6rem;
 }
 
+.arobase::before {
+    content: "\000040";
+}
+
 
 /* Extra small devices (phones, less than 768px) */
 
