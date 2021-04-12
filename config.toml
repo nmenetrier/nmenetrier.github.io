@@ -40,16 +40,22 @@ disable404 = true
         enable = true
 
         [[params.contact.list]]
+        class = "home"
+        icon = "fa-home"
+        url = "https://www.openstreetmap.org/?mlat=44.7276&mlon=5.0215#map=15/44.7276/5.0215"
+        title = "Crest, Drôme, France"
+
+        [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
-        #url = "mailto: nmenetrier@protonmail.com"
-        title = "nmenetrier[at]protonmail.com"
+        url = "mailto: nmenetrier@protonmail.com"
+        title = "nmenetrier@protonmail.com"
 
-        #[[params.contact.list]]
-        #class = "phone"
-        #icon = "fa-phone"
-        #url = "tel:+33 7 61 31 82 98"
-        #title = "+33 7 61 31 82 98"
+        [[params.contact.list]]
+        class = "phone"
+        icon = "fa-phone"
+        url = "tel:+33 7 61 31 82 98"
+        title = "+33 7 61 31 82 98"
 
         [[params.contact.list]]
         class = "website"
@@ -57,17 +63,17 @@ disable404 = true
         url = "//nmenetrier.github.io"
         title = "nmenetrier.github.io"
 
-        # [[params.contact.list]]
-        # class = "linkedin"
-        # icon = "fa-linkedin"
-        # url = "//linkedin.com/in/nmenetrier"
-        # title = "linkedin.com/in/nmenetrier"
+        [[params.contact.list]]
+        class = "linkedin"
+        icon = "fa-linkedin"
+        url = "//linkedin.com/in/nmenetrier"
+        title = "linkedin.com/in/nmenetrier"
 
-        # [[params.contact.list]]
-        # class = "github"
-        # icon = "fa-github"
-        # url = "//github.com/nmenetrier"
-        # title = "github.com/nmenetrier"
+        [[params.contact.list]]
+        class = "github"
+        icon = "fa-github"
+        url = "//github.com/nmenetrier"
+        title = "github.com/nmenetrier"
 
         # [[params.contact.list]]
         # class = "twitter"
