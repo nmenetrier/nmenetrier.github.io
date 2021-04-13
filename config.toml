@@ -137,8 +137,7 @@ disable404 = true
         title = "Career Profile"
         summary = """\
             Curieux, j'aime particulièrement découvrir les arcanes du kernel Linux ainsi qu'automatiser les tâches récurrentes.\n\
-            Je souhaiterais m'orienter vers un poste avec plus de développement logiciel, type DevOps ou SRE.\n\
-            Plus il y a du temps de dev, plus je suis heureux. :)
+            Je souhaiterais m'orienter vers un poste avec plus de développement logiciel, type DevOps ou SRE.
             """
 
     # Experiences section
